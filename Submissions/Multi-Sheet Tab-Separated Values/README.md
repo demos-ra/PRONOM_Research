@@ -12,7 +12,7 @@ mtsv
 
 **MIME/Media Type**
 
-text/prs.mtsv, as given in the IANA Considerations of the Internet-Draft. It is not yet listed by IANA; the registration is under review.
+text/prs.mtsv, registered with IANA on 2026-10-22: https://www.iana.org/assignments/media-types/text/prs.mtsv
 
 **Description**
 
